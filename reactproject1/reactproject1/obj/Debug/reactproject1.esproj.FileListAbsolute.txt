@@ -1,0 +1,2 @@
+C:\Users\teckhong\source\repos\reactproject1\reactproject1\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache
+C:\Users\teckhong\source\repos\CRUD\reactproject1\reactproject1\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache
